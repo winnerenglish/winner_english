@@ -16,7 +16,7 @@ export default new Vuex.Store({
 
   },
   modules: {
-    system
+     
   },
   plugins: [createPersistedState()]
 })
